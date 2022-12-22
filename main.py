@@ -107,4 +107,4 @@ async def meme(context,*args):
 
 
 
-client.run('MTAxNDQ1OTAyMDQzNTc5NjAwOA.GGJ5PJ.LtugXoyIjmODgOtgbPAjIT75vv3-YZbRuejgcI')
+client.run('YOUR TOKEN GOES HERE')
